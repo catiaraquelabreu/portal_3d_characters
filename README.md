@@ -28,4 +28,5 @@ Make sure you have Yarn installed before proceeding with the installation.
 - @types/react-dom - TypeScript type definitions for ReactDOM.
 - @vitejs/plugin-react - Official React plugin for Vite.
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+
+![Screenshot (163)](https://github.com/catiaraquelabreu/portal_characters/assets/131707164/eb3c4be0-901f-47c9-ac6b-3b451b7b5977)
