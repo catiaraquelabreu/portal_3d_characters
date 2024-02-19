@@ -1,11 +1,9 @@
-A boilerplate to build R3F projects
+Project Documentation 
 
 ```
 yarn
 yarn dev
 ```
-
-Project Documentation 
 
 Description
 This project is a web application aimed at creating 3 animated cards with 3D models and interactive animations. 
