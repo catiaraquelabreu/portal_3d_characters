@@ -28,5 +28,8 @@ Make sure you have Yarn installed before proceeding with the installation.
 - @types/react-dom - TypeScript type definitions for ReactDOM.
 - @vitejs/plugin-react - Official React plugin for Vite.
 
+VERCEL LINK:
+https://portal-3d-characters.vercel.app/
+
 
 ![Screenshot (163)](https://github.com/catiaraquelabreu/portal_characters/assets/131707164/eb3c4be0-901f-47c9-ac6b-3b451b7b5977)
