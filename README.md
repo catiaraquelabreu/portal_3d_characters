@@ -5,12 +5,14 @@ yarn
 yarn dev
 ```
 
-Description
+Description:
+
 This project is a web application aimed at creating 3 animated cards with 3D models and interactive animations. 
 It utilizes Vite with React technology for rapid and efficient development. The 3D models were obtained from Patreon, while the interactive backgrounds were implemented using BLOCKADE LABS. 
 The Drei library was used to facilitate the integration of 3D resources, and the maath library was added for auxiliary mathematical operations.
 
-Installation
+Installation:
+
 Make sure you have Yarn installed before proceeding with the installation.
 
 - Vite - A fast and minimalist web development build tool.
